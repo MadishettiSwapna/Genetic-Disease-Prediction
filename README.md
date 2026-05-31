@@ -1,5 +1,5 @@
 # Genetic Disease Prediction using Machine Learning
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MadishettiSwapna/Genetic-Disease-Prediction/blob/main/Genetic_Disease_Prediction.ipynb)
 ## Overview
 
 This project focuses on predicting genetic diseases using Machine Learning techniques. The objective is to analyze genetic and medical data, identify patterns associated with various diseases, and develop predictive models capable of assisting in disease classification.
