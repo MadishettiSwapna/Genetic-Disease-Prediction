@@ -110,6 +110,17 @@ The performance comparison demonstrated that **XGBoost** achieved the highest pr
 
 The project highlights the effectiveness of ensemble learning techniques for genetic disease prediction tasks.
 
+### Model Comparison
+
+![Model Comparison](screenshots/model_accuracy_comparision.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Classification Report
+
+![Classification Report](screenshots/classification_report.png)
 ---
 
 ## Key Concepts Learned
